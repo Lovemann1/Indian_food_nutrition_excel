@@ -44,7 +44,7 @@ The tabel has all the nutrients,their daily need, and quantity per serving.
 From the table made sutable charts that not only tells nutrients value but also compare it with daily need.
 ![chart](https://github.com/Lovemann1/Indian_food_nutrition_excel/blob/main/Assets/charts.png?raw=true)
 <br>
-Charts are made combining two charts in a single chart for better visual understanding.
+Charts are made from combining two charts in a single chart for better visual understanding.
 
 # Conclusion 
 The deshboard can assist in finding and understand the nutrient value a dish contain and by consuming it how much daily need of that nutrient a person can fulfill.
