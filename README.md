@@ -16,7 +16,10 @@ Data is collected from chatgpt. Dataset has dish name along with the nutrients t
 ![row_dataset](Assets/row_data.png)
 <br>
 The dataset had everything in string format so I had to use verious type to text, filter and conditional formulas just to get numarical values of the nutrition from the dataset. Along with it the nubmarical values of the nutrition also has to be with right dish.
-
+<br> 
+# Sorting
+The first step from the data set was sorting string values of each nutrient along with the dish name and create a table. The tabel should have each dish along with every nutrients that is present in the data if there is no mention of any perticular nutrients that should also be mention in the table.
+![table](https://github.com/Lovemann1/Indian_food_nutrition_excel/blob/main/Assets/Table_from_data.png?raw=true)
 
 #dianamic
 # tells daily value also
